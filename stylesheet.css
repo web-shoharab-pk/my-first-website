@@ -11,7 +11,7 @@
     color: red;
     border: 3px solid blanchedalmond;
     border-radius: 10px;
-    
+    display: block !important;
 }
 b{
     color: tomato;
