@@ -9,6 +9,15 @@ h1{
     display: inline;
     height: 60px;
 }
+#pk{
+    font-size: 45px;
+    text-align: center;
+    background-color: rgba(252, 143, 143, 0.849);
+    color: red;
+    border: 3px solid blanchedalmond;
+    border-radius: 10px;
+
+}
 b{
     color: tomato;
     font-size: 18px;
@@ -76,7 +85,7 @@ div p{
 
 }
 #sajek img{
-  width: 1165px; 
+  width: 1200px; 
 }
 .blog{
     padding: 5px;
