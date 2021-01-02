@@ -3,12 +3,7 @@
 *{
     font-family: Verdana, Tahoma, sans-serif;
 }
-h1{
-    background: #ff5200;
-    color: white;
-    
-    height: 60px;
-}
+ 
 #pk{
     font-size: 45px;
     text-align: center;
@@ -17,7 +12,6 @@ h1{
     border: 3px solid blanchedalmond;
     border-radius: 10px;
     
-
 }
 b{
     color: tomato;
