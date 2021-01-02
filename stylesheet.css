@@ -1,1 +1,103 @@
 # my-first-website
+*{
+    font-family: Verdana, Tahoma, sans-serif;
+}
+h1{
+    background: #ff5200;
+    color: white;
+    display: inline;
+    height: 60px;
+}
+b{
+    color: tomato;
+    font-size: 18px;
+}
+p{
+    font-weight: 400;
+}
+img{
+    height: 75vh;
+    width: 25%;
+}
+#murgi{
+    color: red;
+    font-size: 3rem;
+    font-family: monospace;
+}
+.your{
+    font-size: 40px;
+}
+.hello{
+    color: violet;
+}
+.who{
+    background: wheat;
+    /* display: inline; */
+}
+.are{
+    width: 35%;
+}
+.you{
+    color: white;
+    background: red;
+}
+div{
+    padding: 10px;
+  
+}
+#hello{
+    background: #6b90ff;
+    color: rgba(9, 62, 160, 0.712);
+}
+#web{
+    background: #fcacfc;
+    color: rgb(212, 20, 212);
+}
+div p{
+    font-size: 20px;
+}
+#hello img{
+    width: 350px;
+}
+#web img{
+    width: 220px;
+}
+#sajek{
+    /* width: 100%; */
+    padding: 0; 
+}
+#sajek h3{
+    font-size: 30px;
+    font-weight: 600px;
+    background: #f15757;
+    padding: 10px;
+    height: 40px;
+
+}
+#sajek img{
+  width: 1063px; 
+}
+.blog{
+    padding: 5px;
+    border: 5px solid rgba(0, 0, 0, 0.829);
+    margin: 25px 15px;
+    border-radius: 15px;
+}
+
+.inline{
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px black solid;
+    border-radius: 10px;
+    /* display: flex; */
+    width: 32%;
+  height: 650px;
+ 
+  float: left;
+    /* display:inline-block; */
+    box-sizing: border-box;
+    text-align: justify;
+   
+    
+
+}
