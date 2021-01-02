@@ -6,7 +6,7 @@
 h1{
     background: #ff5200;
     color: white;
-    display: inline;
+    
     height: 60px;
 }
 #pk{
@@ -16,7 +16,7 @@ h1{
     color: red;
     border: 3px solid blanchedalmond;
     border-radius: 10px;
-    display: block;
+    
 
 }
 b{
